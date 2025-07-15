@@ -1,4 +1,5 @@
 /**
+
  * @fileOverview main module that renders the app.
  */
 
